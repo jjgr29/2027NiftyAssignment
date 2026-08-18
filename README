@@ -1,14 +1,15 @@
 Folders: 
-    Pgm2Base contains:
+    Assignment1 contains:
         the base starter code for the first of the assignments
         the input file used (this is a publicly accessible file from Kaggle) 
         the student instructional handout (which includes the test cases and rubrics used)  
-    Pgm8Base contains:
+    Assignment2 contains:
         the student instructional handout (which includes the test cases and rubrics used)     
 
-Files:   
+Files:  
+    2027 CCSC Nifty Assignment.docx contains the abstract for this Nifty Assignment proposal 
     index.html is the online site used to host this nifty assignment
     Lecture_HashTables.pptx is the powerpoint used for the lecture 
-    Lecture_HashTablesHandout.docs is the student handout for the lecture
+    Lecture_HashTablesHandout.docx is the student handout for the lecture
             
 
