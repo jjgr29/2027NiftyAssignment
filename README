@@ -4,11 +4,15 @@ Folders:
         the input file used (this is a publicly accessible file from Kaggle) 
         the student instructional handout (which includes the test cases and rubrics used)  
     Assignment2 contains:
-        the student instructional handout (which includes the test cases and rubrics used)     
+        the student instructional handout (which includes the test cases and rubrics used)
+        MyMaps.jar file containing completed, compiled code for this assignment
+        tv.csv input file (input to run with MyMaps.jar) 
+        NOTE: MyMaps.jar can be run from VSCode using the command: java -jar MyMaps.jar
+              Ensure the input file tv.csv is in the same directory    
 
 Files:  
     2027 CCSC Nifty Assignment.docx contains the abstract for this Nifty Assignment proposal 
-    index.html is the online site used to host this nifty assignment
+    index.html is the online site used to host this nifty assignment on the site: https://beautiful-sunflower-62e8f1.netlify.app
     Lecture_HashTables.pptx is the powerpoint used for the lecture 
     Lecture_HashTablesHandout.docx is the student handout for the lecture
             
