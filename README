@@ -1,0 +1,14 @@
+Folders: 
+    Pgm2Base contains:
+        the base starter code for the first of the assignments
+        the input file used (this is a publicly accessible file from Kaggle) 
+        the student instructional handout (which includes the test cases and rubrics used)  
+    Pgm8Base contains:
+        the student instructional handout (which includes the test cases and rubrics used)     
+
+Files:   
+    index.html is the online site used to host this nifty assignment
+    Lecture_HashTables.pptx is the powerpoint used for the lecture 
+    Lecture_HasTablesHandout.docs is the student handout for the lecture
+            
+
